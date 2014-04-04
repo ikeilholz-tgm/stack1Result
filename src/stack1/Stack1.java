@@ -52,6 +52,7 @@ public class Stack1 {
 	/**
 	 * Prüft, ob der Stapel voll ist. 
 	 * @return True wenn voll, sonst false.
+	 * Änderung
 	 */
 	public boolean isFull() {
 		return tos >= os.length;
